@@ -17,13 +17,13 @@ Alfred is an award-winning productivity application for Mac OS X.  Alfred saves 
 
 To install **Flat Alfred** do the following:
 
-1. Open Terminal.app and pase this code:
+- Open Terminal.app and pase this code:
 ```
 git@github.com:juanra/Flat-Alfred.git
 ```
-2. Double-click on the appearance file to import into Alfred 2.  Check the file with the `.alfredtheme` extension.
+- Double-click on the appearance file to import into Alfred 2.  Check the file with the `.alfredtheme` extension.
 
 
 ####Automatic Installation
 
-Click here to install >> [Flat Alfred.alfredtheme](https://dl.dropboxusercontent.com/u/531241/Posts/Github/Flat%20Alfred/Flat%20Alfred.alfredappearance)
+Download and double-click this file: [Flat Alfred.alfredtheme](https://dl.dropboxusercontent.com/u/531241/Posts/Github/Flat%20Alfred/Flat%20Alfred.alfredappearance)
