@@ -7,8 +7,6 @@ Alfred is an award-winning productivity application for Mac OS X.  Alfred saves 
 
 **If you want to help with other colors, fork and submit a pull request.**
 
-![Flat Alfred](https://dl.dropboxusercontent.com/u/531241/Posts/Github/Flat%20Alfred/flat-alfred.png)
-
 ---
 
 ##Installation
